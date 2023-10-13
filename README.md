@@ -4,9 +4,7 @@
 ======================================================================
 REFERENCE:
 ======================================================================   
-Yuchao Tang, Shirong Deng, and Tieyong Zeng; Low rank and total variation based two-phase method for image deblurring with 
-
-impulse noise.
+Yuchao Tang, Shirong Deng and Tieyong Zeng, Low Rank and Total Variation Based Two-Phase Method for Image Deblurring with Salt-and-Pepper Impulse Noise, Numer. Math. Theor. Meth. Appl., 2023. DOI: 10.4208/nmtma.OA-2022-0190
 
 ======================================================================
 SOFTWARE
